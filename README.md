@@ -1,5 +1,5 @@
 # webpack-babel-employees
 
-first json-server --watch employee.json
+json-server --watch employee.json
 
-and npm start !
+npm start !
